@@ -1,0 +1,54 @@
+.icon-sm{
+  font-size: 2rem;
+}
+
+.image-lg{
+  width: 9rem;
+  height: 9rem;
+  object-fit: cover;
+}
+
+.fa-heart{
+  font-size: 1.5rem;
+}
+
+.xsmall{
+  font-size: 0.65rem;
+}
+
+.icon-lg{
+  font-size: 9rem;
+}
+
+.grid-img{
+  height: 300px;
+  width: 100%;
+
+  object-fit: cover;
+}
+
+.avatar-lg {
+  width: 9rem;
+    height: 9rem;
+    object-fit: cover;
+    border-radius: 50%; /* Ensures the image is a perfect circle */
+    border: 5px solid white; /* Adding a border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adding a shadow effect */
+}
+
+.avatar-sm{
+  width: 2rem;
+  height: 2rem;
+  object-fit: cover;
+}
+
+/* MEDIUM */
+.icon-md{
+  font-size: 3.5rem;
+}
+
+.avatar-md{
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: cover;
+}
